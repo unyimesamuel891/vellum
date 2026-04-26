@@ -1,6 +1,6 @@
 # Vellum
 
-A spatial-first workspace — a modern alternative to Notion built with Next.js and Tailwind CSS.
+A spatial-first workspace; a modern alternative to Notion built with Next.js and Tailwind CSS.
 
 ## Stack
 
