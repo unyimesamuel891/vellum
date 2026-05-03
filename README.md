@@ -8,7 +8,7 @@
 
 ## Overview
 
-Vellum is a spatial workspace app built with Next.js 14 and TypeScript. It reimagines how teams organise information — moving away from hierarchical documents toward a canvas-based, block-driven interface with real-time-feel interactions.
+Vellum is a spatial workspace app built with Next.js 14 and TypeScript. It reimagines how teams organise information, moving away from hierarchical documents toward a canvas-based, block-driven interface with real-time-feel interactions.
 
 ---
 
